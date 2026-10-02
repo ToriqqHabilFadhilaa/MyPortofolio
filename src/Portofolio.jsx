@@ -77,7 +77,7 @@ const EDUCATION = [
     desc: "Mempelajari perpaduan teknologi dan bisnis melalui analisis sistem, pengembangan software, database, serta perancangan solusi sistem informasi.",
   },
   {
-    year: "2023 — 2024",
+    year: "2023 — 2026",
     role: "Rekayasa Perangkat Lunak",
     company: "SMK PGRI 3 Malang",
     desc: "Membangun fondasi dalam pemrograman, pengembangan aplikasi, database, dan rekayasa perangkat lunak.",
